@@ -1,0 +1,198 @@
+.head{
+    text-align:center;
+    font-size:x-large
+}  
+
+body, html {
+    height: 100%;
+  }
+  
+  .Homebody {
+    /* The CSS here I got from w3 Schools */
+    background-image: url("https://i.natgeofe.com/k/dfc7bec2-0657-4887-81a7-6d024a8c3f70/WH-XmasTree_3x2.jpg");
+  
+    
+    height: 100%;
+  
+   
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .head{
+    color:red; 
+
+  }
+  .navigate{
+    font-size: 100px;
+    margin-top: 150px;
+    margin-left: 250px;
+}
+#find{
+  display:flex;
+  background-color: red;
+  margin-top: 40px;
+  margin-left: 200px ;
+  margin-right: 200px;
+  border: dashed, darkgreen, 10px;
+}
+#find:hover{
+  color:green;
+}
+#question{
+  display: flex;
+  grid-template-columns: repeat(2, 50px);
+  grid-template-rows: repeat(2, 50px);
+  gap: 200px;
+}
+.card{
+  margin-top: 250px;
+  padding:10px;
+  font-size: 25px;
+  width: 250px;
+  height: 275px;
+  background-color: green;
+}
+.prompt1{
+  text-align: center;
+  font-size: 75px;
+  color: gold;
+}
+img{
+  margin-left: 10px;
+  width: 175px;
+  height: 250px;
+}
+#first{
+  background-image: url("https://www.thewoodgroveoutlander.com/wp-content/uploads/2024/01/christmas.jpg");
+  
+    
+    height: 100%;
+  
+   
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#second{
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/d/d2/DC_Snowstorm_Feb_-_Flickr_-_Al_Jazeera_English_%286%29.jpg");
+  
+    
+    height: 100%;
+  
+   
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.promptfail{
+  text-align: center;
+  font-size: 75px;
+  color:black;
+}
+.failsong{
+  margin-top: 50px;
+  margin-left: 400px;
+}
+.direct{
+  margin-left: 10px;
+  color: red;
+  font-size: 40px;
+}
+#find2{
+  display:flex;
+  background-color: red;
+  margin-top: 40px;
+  margin-left: 20px ;
+  margin-right: 20px;
+  border: dashed, darkgreen, 10px;
+}
+#find2:hover{
+  color:gold;
+}
+.navigate2{
+  font-size: 100px;
+  margin-top: 150px;
+  margin-left: 350px;
+}
+#headerwin{
+  font-size: 60px;
+
+}
+#findend{
+  height: 300px;
+  width: 500px;
+  display:flex;
+  background-color: red;
+  margin-top: 40px;
+  margin-left: 100px ;
+  margin-right: 100px;
+  border: dashed, darkgreen, 10px;
+}
+.navigatehome{
+    font-size: 100px;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+#findend:hover{
+  color:forestgreen;
+}
+#clicker{
+  float: right;
+  margin-right: 300px;
+  width: 200px; ;
+  height: 100px;
+}
+#display{
+  position: relative;
+  left: 50px;
+  color: goldenrod;
+  font-size: 100px;
+}
+#cookcount{
+  position:relative;
+  right: 180px;
+  font-size: 40px;
+  width: 615px;
+  color:red;
+}
+#grinch{
+position: relative;
+top: 340px;
+left: 800px;
+float:right;
+}
+.card{
+  transition: width 2s, height 2s;
+}
+.card:hover{
+  width: 300px;
+  height: 300px;
+}
+.gamebody{
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQB01RMiDXv3Zta93bsM508cqbdzB79awW4A&s");
+  
+    
+    height: 100%;
+  
+   
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#find3{
+    display:flex;
+    background-color: red;
+    margin-top: 40px;
+    margin-left:550px ;
+    margin-right: 520px;
+    border: dashed, darkgreen, 10px;
+}
+.gamelink{
+  font-size: 100px;
+    margin-top: 50px;
+    margin-left:50px;
+}
+#find3:hover{
+  color: green;
+}
